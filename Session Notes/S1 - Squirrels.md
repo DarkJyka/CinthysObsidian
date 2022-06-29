@@ -1,0 +1,25 @@
+	2022/06/28
+
+- It is the [[Festival of Flowers]] in the city of [[Pyrilla]]. 
+- [[Rodrick]] leaves an inn in the early morning to deliver a letter. His letter is slipped under the door of an imposing old building made of black stone and wood.
+- We then move to another larger inn ([[Weary Willow]]) where a hafling woman ([[Maewyn]]) is just beginning to open her own business for the day. A half-elven woman joined her, named [[Lorelei]]. She seeks some kind of reading about a crush. A mushroom is placed in her hand and druidcrafted into a daisy of sorts. 
+- In the western quarter, we move to the [[Spirit Haven Shrine]]. [[Ravenna]] and [[Cresh]] awake in a room. They make their way out towards the [[Weary Willow]] inn and [[Ravenna]] sits with [[Cresh]] while she enjoys breakfast. 
+- [[Danica 'Sparrow' Aritra|Sparrow]] wakes in an alley in their own spit and possibly someone else's vomit with no idea of where they are. They ask the first person they see what city they're in. They eventually make their way to the [[Weary Willow]] as well. They sit with [[Cresh]] and [[Ravenna]].  Ravenna offers them help and trade some introductions. Reasons for staying traded. [[Ravenna ]]learned about '[[Starshine|the powder]]'. 
+- Cresh inquiries about 'the psychic' and heads up the stairs to knock on the door. There's a bit of a misunderstanding  about heights and the difference between a therapist and a psychic. 
+- Introductions are made and the hafling is paid a gold piece. Maewyn went downstairs to  speak to the barkeep - [[Nemeia]]-  about changing the sign and eventually fixes it herself with druidcraft. She heads up to get some candy apples. 
+- [[Ravenna]] goes to check on the locals and see if they're needing any assistance and heals a few bumps and scrapes along with helping them put up decorations. 
+- We watched some of the fireworks display, which fell to the ground in harmless (?) little balls of colour. Unfotunately, the fireworks display was interrupted by two large explosions.
+- The party rushes to investigate the explosions and we find moss-like entities swiping out at people. The grass is being taken over by some moss-like substance with a larger moss-like creature. When injured the blood turns into the same kind of strange moss. 
+- For [[Rodrick]] and [[Ravenna]] this seems faintly familiar or at least something enough to trigger some divine insight but there is no clarification. 
+- The moss continued to grow over the corpses of the creatures of our companions. 
+- A guard rounded the corner and immediately told us to surrender and come with them. The situation wass tense as [[Rodrick]] insisted that the moss-creatures needed to be burned. 
+- Within the moss there appears to be metal or glass glinting in the firelight. It is a shard of glass upon closer inspection. There were more shards near it. A piece of fabric or symbol of some sort is found and pocketed. 
+- We get marched to the eastern quarter. We're led to a cell where [[Maewyn]]  cured [[Cresh]]'s disease and [[Ravenna]] healed everyone. 
+- There was someone in the cell across from us. Covered in fabric and unmoving. They're offered a candy apple and after some banter it is just unceremoniously rolled towards them. They were picked up for 'loitering' in the southern quarter. 
+- The guard captain ([[Sufana]]) comes down, a dragonborn flanked by a pair of guards ( one being the one who arrested us). [[Rodrick]] reveals he is part of [[The Order]] and the guard captain suddenly loses a lot of her pointed. 
+- A conversation wines on and [[Rodrick]] mentions he is here to investigate a disease. [[Ravenna]] eventually shows the symbol on the flask shard she found. A sort of circle with a venn diagram in the middle. It was confirmed that the symbols found at both sites matched.  
+- The symbol is that of the [[Pyrillian Underground]]. Often carved or painted into places that help people maneuver the underground/certain good. 
+- We hear talking upstairs eventually and the same dragonborn greets us again as well as a dwarf dressed in Order clothes who looked rather annoyed. Mind wizards were spoken of and eventually [[Rodrick]] was taken upstairs for a private chat after multiple rebuffed attempts to get him to vouch for us. 
+- We are eventually let out under his watch and Ravenna insists she needs to go to the [[Spirit Haven Shrine]] to speak to [[Valor 'Val' Barlou|Val]]. The entryway was filled with folk suffering from the attack. 
+- [[Valor 'Val' Barlou|Val]] was assisting the other members of the church and healing those she can. [[Ravenna]] told her that she would not be able to help her anymore and they parted on good terms. 
+- We return to the [[Weary Willow]] and return to the rooms for the evening after figuring our room assignments. [[Ravenna]], [[Maewyn]], and [[Cresh]] took the bedroom while [[Danica 'Sparrow' Aritra|Sparrow]] and [[Rodrick]] took the therapy rook.

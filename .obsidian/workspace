@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "42b8e1212d88653c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3700b013ddfdea1d",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9db97233efe2b752",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e57a78b54652d2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34ea25f0a54f5446",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9033651d23638cc4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cdbb8a5d7a4f3093",
+    "type": "split",
+    "children": [
+      {
+        "id": "009f0ac4dc6ea7b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "370b3077be295c31",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3700b013ddfdea1d",
+  "lastOpenFiles": [
+    "Session Notes/S1 - Squirrels.md",
+    "People/Valor 'Val' Barlou.md",
+    "Things/Pyrillian Underground.md",
+    "People/Sufana.md",
+    "Cinthys Party/Maewyn.md",
+    "People/Nemeia.md",
+    "Places/Niman.md",
+    "Things/Starshine.md",
+    "People/Lorelei.md",
+    "Things/Festival of Flowers.md"
+  ]
+}
